@@ -37,7 +37,7 @@ border: #0000cc 2px dashed;
 display: none;
 }
 </style>
-<h1 style="font-size:60px;text-align:center;">My Pictre Gallery</h1>
+<h1 style="font-size:60px;text-align:center;">My Picture Gallery</h1>
 
 <div class="row">
     <div class="column">
